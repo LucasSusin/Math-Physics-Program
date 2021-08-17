@@ -27,7 +27,6 @@
 #
 
 # Delphi compiler-generated binaries (safe to delete)
-*.exe
 *.dll
 *.bpl
 *.bpi
@@ -39,7 +38,6 @@
 *.dres
 *.rsm
 *.tds
-*.dcu
 *.lib
 *.a
 *.o
